@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Atharva Gharote, a computer science engineering graduate with Bachelor's degree. I love coding and have experience in building projects backend system using frameworks and Java language.  
+
 <!--
 **atharvag23/atharvag23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
