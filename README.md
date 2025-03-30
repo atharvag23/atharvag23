@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Atharva Gharote, a computer science engineering graduate with Bachelor's degree. I love coding and have experience in building projects backend system using frameworks and Java language.  
+I'm Atharva Gharote, an experienced software developer. I love coding and have experience in building projects backend system using Java language and frameworks.
 
 
 ### 🚀 Technologies
